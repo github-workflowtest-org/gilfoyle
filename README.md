@@ -28,7 +28,7 @@ Gilfoyle is a web application from the [Dreamvo project](https://dreamvo.com) th
 
 It's written in Golang, mostly designed for [Kubernetes](http://kubernetes.io/) and runs as a single Linux binary with [PostgreSQL](https://www.postgresql.org/) and [RabbitMQ](https://www.rabbitmq.com/).
 
-## Table of content
+## Table of content 
 
 - [Features](#features)
 - [Current status](#current-status)
